@@ -1,2 +1,1 @@
-# Navigation_INF
-Teste de Navigation em React-Native
+# ReactNative_aula5
